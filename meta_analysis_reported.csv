@@ -1,0 +1,2 @@
+source_id,studies,effect_estimates,pooled_standardized_difference,ci_95_low,ci_95_high,i_squared_percent,data_status
+wassiliwizky_2026,52,59,0.36,0.29,0.42,89.86,"Published aggregate, rounded; not study-level input"

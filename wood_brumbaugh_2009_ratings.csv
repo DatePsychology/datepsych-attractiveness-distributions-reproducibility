@@ -1,0 +1,5 @@
+face_sex,observer_group,observer_sex,observer_orientation,n_observers,mean_pomp,sd_pomp,source_id
+female,Heterosexual men,male,heterosexual,1371,40.9,15.0,wood_brumbaugh_2009_table4
+female,Lesbian women,female,lesbian,128,31.1,14.6,wood_brumbaugh_2009_table4
+male,Gay men,male,gay,126,38.9,14.1,wood_brumbaugh_2009_table4
+male,Heterosexual women,female,heterosexual,2683,25.8,13.9,wood_brumbaugh_2009_table4

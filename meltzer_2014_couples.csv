@@ -1,0 +1,5 @@
+study,couples,husband_mean,wife_mean,sex_comparison_t,source_id
+1,82,4.47,4.33,0.88,meltzer_2014_table1
+2,168,5.21,5.36,-1.43,meltzer_2014_table1
+3,71,4.68,4.6,0.47,meltzer_2014_table1
+4,133,4.73,4.8,-0.58,meltzer_2014_table1

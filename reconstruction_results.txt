@@ -1,0 +1,40 @@
+Physical attractiveness distributions — published-summary reconstruction
+=====================================================================
+IMPORTANT: Source-level summary statistics, not reanalysis of original records.
+
+2026 meta-analysis (directly transcribed):
+  52 studies; 59 effect estimates
+  Mean standardized difference = 0.36
+  Published 95% CI = [0.29, 0.42]
+  Published I squared = 89.86%
+  These values are not independently reestimated here.
+
+Wood & Brumbaugh (2009), Table 4:
+  Female-face photo set: heterosexual men minus lesbian women = 9.8 POMP points
+  Male-face photo set: gay men minus heterosexual women = 13.1 POMP points
+  Confounds sex of rater and sexual orientation; not a causal rater-sex effect.
+
+Meltzer et al. (2014), four newlywed samples:
+  Sample sizes (couples): 82, 168, 71, 133
+  Husband minus wife means: +0.14, -0.15, +0.08, -0.07
+  The reported within-sample sex comparisons were nonsignificant.
+  Note: Study 1 includes the McNulty et al. (2008) cohort.
+
+Jokela (2009), Table 3, Model A:
+  Adjusted mean biological children by female attractiveness quartile: 2.67, 2.59, 3.05, 2.80
+  Equal-weight mean of bottom two quartiles = 2.630
+  Third vs. this mean = +16.0% (rounded; published prose ~16%)
+  Top vs. this mean = +6.5% (rounded; published prose ~6%)
+  These percentages compare CHILD COUNTS, not probability of any birth.
+  Equal weighting is illustrative: original regression reference may differ.
+  Female offspring-sex trend p = 0.89 (transcribed; not recalculated).
+
+2026 facial-shape statistical adjustment:
+  Female raters: absolute change = 0.112, percent = 33.33% (reported 33.25%)
+  Male raters:   absolute change = 0.112, percent = 43.08% (reported 42.98%)
+  Product of separately reported a*b paths = -0.214
+  Published pathways cannot be reconciled from the printed coefficients alone.
+  Do not infer a causal mediation effect from these arithmetic checks.
+
+Conceptual chart: two hypothetical Gaussian densities, NOT observed ratings.
+All validation assertions passed.

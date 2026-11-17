@@ -1,0 +1,8 @@
+source_id,measure,value,note
+mcnulty_2008,husband_attractiveness_mean,4.5,Rounded mean of 82 newlywed husbands; distinct from Meltzer 2014 two-decimal report
+mcnulty_2008,wife_attractiveness_mean,4.3,Rounded mean of 82 newlywed wives; nonsignificant couple mean contrast
+jokela_2009,female_attractiveness_offspring_sex_trend_p,0.89,Women: no evidence of trend in offspring sex ratio
+jokela_2009,combined_offspring_sex_ratio_odds_ratio,0.97,Sex-combined estimate; no evidence of association
+jokela_2009,combined_offspring_sex_ratio_p,0.28,Sex-combined p-value
+wassiliwizky_2026,reported_shape_path_a,1.363,Published path; do not assume all models are on identical scales
+wassiliwizky_2026,reported_shape_path_b,-0.157,Published path; conditioning/specification ambiguous

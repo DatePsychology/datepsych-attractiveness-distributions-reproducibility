@@ -1,0 +1,5 @@
+quartile,ordinal,adjusted_mean_children,ci_95_low,ci_95_high,source_id
+Lowest,1,2.67,2.49,2.85,jokela_2009_table3_model_a
+Second,2,2.59,2.41,2.77,jokela_2009_table3_model_a
+Third,3,3.05,2.87,3.24,jokela_2009_table3_model_a
+Highest,4,2.8,2.61,2.98,jokela_2009_table3_model_a
