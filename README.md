@@ -1,6 +1,6 @@
 # Is Physical Attractiveness Normally Distributed? — Reproducibility Materials
 
-Code, transcribed published summary statistics, numerical checks, and figures accompanying a [*methodological review*](https://datepsych.substack.com/p/does-physical-attractiveness-follow) of Date Psychology's **“Is Physical Attractiveness Normally Distributed?”** (2022).
+Code, transcribed published summary statistics, numerical checks, and figures accompanying a [**methodological review**](https://datepsych.substack.com/p/does-physical-attractiveness-follow) of Date Psychology's **“Is Physical Attractiveness Normally Distributed?”** (2022).
 
 The companion review evaluates the OKCupid rating distributions, the central limit theorem, comparison of attractiveness ratings across observer groups, a 2026 meta-analysis, spousal attractiveness, and fertility claims.
 
